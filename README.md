@@ -20,7 +20,10 @@
 ## الملفات
 
 - `CLAUDE_API_GUIDELINES.md` - الدليل الشامل لـ Claude API
+- `OSINT_ENGINEER_SYSTEM_PROMPT.xml` - System Prompt لمهندس OSINT محسن لـ Claude 4.5
 
 ## الاستخدام
 
-راجع ملف `CLAUDE_API_GUIDELINES.md` للحصول على توثيق كامل مع أمثلة الكود
+راجع ملف `CLAUDE_API_GUIDELINES.md` للحصول على توثيق كامل مع أمثلة الكود.
+
+للاستخدام كـ OSINT Engineer، استخدم محتوى `OSINT_ENGINEER_SYSTEM_PROMPT.xml` كـ system prompt في Claude Projects أو API.
