@@ -20,6 +20,7 @@
 ## الملفات
 
 - `CLAUDE_API_GUIDELINES.md` - الدليل الشامل لـ Claude API
+- `CLAUDE_45_NEW_FEATURES.md` - دليل الميزات الجديدة في Claude 4.5 (Token Efficiency, Behavioral Differences, Stop Reasons)
 - `OSINT_ENGINEER_SYSTEM_PROMPT.xml` - System Prompt لمهندس OSINT محسن لـ Claude 4.5
 - `OSINT_USER_STYLE.xml` - User Style Configuration مع أمثلة عملية للردود
 
